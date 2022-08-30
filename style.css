@@ -1,9 +1,13 @@
-.background-img {
+.carousel-title {
+  padding-right: 200px;
+}
 
-    background-image: url("images/banner-1.png");
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-    width: 100%;
-    height: 85vh;
+.carousel-title-2 {
+  padding-left: 200px;
+}
+
+.con-nav {
+  position: relative;
+  bottom: 638px;
+  background-color: hsla(0, 0%, 99%, 0.266);
 }
