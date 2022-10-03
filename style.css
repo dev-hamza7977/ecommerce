@@ -1,5 +1,8 @@
-.background-img {
+.carousel-title {
+  padding-right: 200px;
+}
 
+<<<<<<< HEAD
     background-image: url("images/banner-2.png");
     background-repeat: no-repeat;
     background-position: center;
@@ -70,3 +73,14 @@
     transition: all 0.3s ease 0s;
     width: 20px;
 }
+=======
+.carousel-title-2 {
+  padding-left: 200px;
+}
+
+.con-nav {
+  position: relative;
+  bottom: 638px;
+  background-color: hsla(0, 0%, 99%, 0.266);
+}
+>>>>>>> 6cef5b78da52bfcaf9f23430050bbee3149e8b5d
